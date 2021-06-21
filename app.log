@@ -1,0 +1,5 @@
+06/21/2021 11:36:28 PM  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+06/21/2021 11:36:28 PM  * Running on http://192.168.0.6:5000/ (Press CTRL+C to quit)
+06/21/2021 11:36:51 PM 127.0.0.1 - - [21/Jun/2021 23:36:51] "GET / HTTP/1.1" 200 -
+06/21/2021 11:36:51 PM 127.0.0.1 - - [21/Jun/2021 23:36:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
